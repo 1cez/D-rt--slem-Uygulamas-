@@ -1,6 +1,6 @@
 # Dort-Islem-Uygulamasi
 
-## Bu uygulamada 4 İşlemi ele aldım ve toplama, çıkarma, bölme, çarpma işlemlerini girdiğiniz sayıya göre işleyen bir uygulama yaptım
+## Bu uygulamada 4 İşlemi ele aldım ve toplama, çıkarma, bölme, çarpma işlemlerini girdiğiniz sayıya göre işlem yapan bir uygulama yaptım.
 
 # Kullanılan Teknolojiler
 
